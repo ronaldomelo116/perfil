@@ -20,6 +20,6 @@ const ronaldo = {
     sempre aprendendo!`
 }
 
-const dev = coffee;
+const dev = "coffee";
 
 //Vamos construir grandes coisas!
